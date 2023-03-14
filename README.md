@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Alfredo Vásquez Lievano</h1>
-<h3 align="center">Developer with knowledge in various technologies and experience in building Information Systems. Ability in web application development, software analysis and design, database administration. Availability and adaptability for teamwork, with a great willingness to learn.</h3>
+<h3 align="center">Developer with knowledge in various technologies and experience in building Information Systems. Ability in web application development, software analysis and design, database administration. Amazing qualities of adaptability, proactivity, availability, and adaptability for teamwork, with great willingness to learn.</h3>
 
 - 💬 Ask me about **React, Svelte, JavaScript, TypeScript, NodeJs, and Nestjs** 
 - 📫 How to reach me **jualvalitube@gmail.com**
