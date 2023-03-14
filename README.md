@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julio Alfredo Vásquez Lievano</h1>
 <h3 align="center">Developer with knowledge in various technologies and experience in building Information Systems. Ability in web application development, software analysis and design, database administration. Availability and adaptability for teamwork, with a great willingness to learn.</h3>
 
-- 💬 Ask me about **React, Angular, Javascript, Typescript, Node js** 
-- 📫 How to reach me **victorpradan@gmail.com**
+- 💬 Ask me about **React, Svelte, JavaScript, TypeScript, NodeJs, and Nestjs ** 
+- 📫 How to reach me **jualvalitube@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julio-v%c3%a1squez-936169119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julio-v%c3%a1squez-936169119/" height="30" width="40" /></a>
