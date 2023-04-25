@@ -12,7 +12,7 @@
     alt="Julio Alfredo Vásquez Lievano"
   />
 </p>
-- 💬 Ask me about **React, Svelte, JavaScript, TypeScript, NodeJs, and Nestjs** 
+- 💬 Ask me about **React, Svelte, JavaScript, TypeScript, NodeJs, and Nestjs**  
 - 📫 How to reach me **jualvalitube@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
