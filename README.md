@@ -215,6 +215,21 @@
       height="40"
     />
   </a>
+ 
+  <a href="https://antv.antgroup.com/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*A-lcQbVTpjwAAAAAAAAAAAAADmJ7AQ/original"
+      alt="antv"
+    />
+  </a>
+   <a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img
+      src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+      alt="ant design"
+      width="40"
+      height="40"
+      />
+  </a>
 </p>
 Julio Alfredo Vásquez Lievano
 <p>
