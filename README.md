@@ -37,7 +37,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/> </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/> </a>
-  <a href="https://neon.tech/" target="_blank" rel="noreferrer"> <img src="https://neon.com/brand/neon-logomark-dark-color.svg" alt="neon" width="50" height="50"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/> </a>
@@ -65,6 +64,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="50" height="50"/> </a>
   <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.com/brand/logo-light.svg" alt="railway" width="50" height="50"/> </a>
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer"> <img src="https://neon.com/brand/neon-logomark-dark-color.svg" alt="neon" width="50" height="50"/> </a>
 </p>
 
 ---
